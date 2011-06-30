@@ -78,11 +78,11 @@ In the subdirectory scenes/ there are some sample setups.
 ==Online instruction movies for usage of the Maya Plugin==
 
 You can download (right-click - save) or watch those instruction movies on-line.
-  * Maya Plugin Intro (28Mb) 
-  * Using Maya Force Fields (17Mb) 
-  * Creating Donuts (11Mb) 
-  * Creating Peanuts, used in upcoming Bolt Movie (29Mb) 
-  * Part of Bolt trailer with Peanuts shot (26Mb)
+  * [http://www.bulletphysics.com/ftp/pub/test/index.php?dir=physics/movies/&file=bullet_intro.mp4 Maya Plugin Intro] (28Mb) 
+  * [http://www.bulletphysics.com/ftp/pub/test/index.php?dir=physics/movies/&file=bullet_fields.mp4 Using Maya Force Fields] (17Mb) 
+  * [http://www.bulletphysics.com/ftp/pub/test/index.php?dir=physics/movies/&file=bullet_donut.mp4 Creating Donuts] (11Mb) 
+  * [http://www.bulletphysics.com/ftp/pub/test/index.php?dir=physics/movies/&file=bullet_peanuts.mp4 Creating Peanuts], used in upcoming Bolt Movie (29Mb) 
+  * [http://www.bulletphysics.com/ftp/pub/test/index.php?dir=physics/movies/&file=BoltPeanutsShot.mov Part of Bolt trailer with Peanuts shot] (26Mb)
 ==Online support forums==
 
 Visit the Bullet forums for support and feedback: http://bulletphysics.com
