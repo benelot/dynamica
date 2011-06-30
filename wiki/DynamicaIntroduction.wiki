@@ -1,8 +1,15 @@
 #summary Introduction to the Dynamica Maya plugin
+#labels Featured,Phase-Deploy
 
-=Rationale=
+=Introduction=
+Disney Animation Studios contributed their in-house Maya plugin called 'Dynamica' to the Bullet project. This Dynamica plugin was used for physics special effects in the creation of the movie Bolt.
 
-Dynamica allows to perform rigid body simulations inside Maya, using different underlying libraries. It will be possible to switch between libraries on the fly. This will be useful for example when some parts of the simulation are particularly critical, requiring the need for a more precise (but slower library). It will still be possible to use a less precise (but faster) library in the non-critical part of the simulation.
+=Features=
+  * Dynamica is cross-platform and works on Windows, Linux and Mac OSX
+  * Dynamica runs on Maya 8, 2008, 2009, 2010 and 2011.
+  * Dynamica can simulate rigid body dynamics within Maya
+  * The plugin exports to COLLADA Physics format and the native .bullet binary physics file format
+  * Constraint support for point to point, hinge, slider and generic 6 degree of freedom constraints
 
 =Basics=
 
