@@ -1,13 +1,28 @@
 #summary Building Dynamica
 #labels Phase-Implementation
 
-= Windows and Linux =
+= Windows =
 
-The easiest way to build Dynamica is using cmake-gui. All the external dependencies are already included in the Dynamica source tree, except for the Maya plug-in SDK.
+The easiest way to build Dynamica under Windows is using cmake-gui. All the external dependencies are already included in the Dynamica source tree, except for the Maya plug-in SDK.
 
 When running cmake-gui, type configure and make sure the Maya location under MAYA_BASE_DIR is properly set, so that the plug-in SDK can be found. It can be adjusted manually if necessary.
 
 Once you build the project, it will create a Maya plugin under libs/Release/plug-ins
+
+= Linux = 
+
+Open a terminal window
+
+{{{
+cd /dynamica/Extras/MayaPlugin
+export MAYA_LOCATION=/usr/autodesk/maya2012-x64
+make
+csh
+setenv MAYA_PLUG_IN_PATH $cwd
+setenv XBMLANGPATH $cwd/icons/%B
+setenv MAYA_SCRIPT_PATH $cwd/scripts
+/usr/autodesk/maya2012-x64/bin/maya
+}}}
 
 = Mac OSX =
 
