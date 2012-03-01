@@ -12,4 +12,4 @@ Google decided to [http://code.google.com/p/support/issues/detail?id=24324 disab
 
 = Detailed Issue Updates =
 
-<wiki:gadget url="http://bulletphysics.org/~erwincoumans/t5.xml" up_projectName="dynamica" width="800"  height="250"/>
+<wiki:gadget url="http://bulletphysics.org/~erwincoumans/t6.xml" up_projectName="dynamica" width="800"  height="250"/>
