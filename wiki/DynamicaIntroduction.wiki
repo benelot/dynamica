@@ -85,4 +85,5 @@ You can download (right-click - save) or watch those instruction movies on-line.
   * [http://www.bulletphysics.com/ftp/pub/test/index.php?dir=physics/movies/&file=BoltPeanutsShot.mov Part of Bolt trailer with Peanuts shot] (26Mb)
 ==Online support forums==
 
-Visit the Bullet forums for support and feedback: http://bulletphysics.com
+Visit the Bullet forums for support and feedback: http://bulletphysics.org
+and see http://bulletphysics.org/mediawiki-1.5.8/index.php/Maya_Dynamica_Plugin
